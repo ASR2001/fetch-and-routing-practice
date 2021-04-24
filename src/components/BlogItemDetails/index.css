@@ -1,0 +1,33 @@
+.blog-item-details-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.blog-details-title {
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.avatar-and-author-container {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+.author {
+  color: #8e8e8e;
+  font-size: 20px;
+}
+.blog-details-image {
+  width: 80%;
+  height: 40vh;
+}
+.blog-details-content {
+  font-size: 20px;
+  color: #8e8e8e;
+}
